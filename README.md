@@ -1,4 +1,3 @@
-### Hi there 👋
 ![https://github.com/bartolo502](https://raw.githubusercontent.com/bartolo502/bartolo502/main/banner_bl.png)
 
 <!--
