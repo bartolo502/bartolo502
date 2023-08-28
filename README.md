@@ -1,4 +1,4 @@
-![https://github.com/bartolo502](https://raw.githubusercontent.com/bartolo502/bartolo502/main/banner_bl.png)
+![https://github.com/bartolo502](https://raw.githubusercontent.com/bartolo502/bartolo502/main/banner_1.png)
 
 <!--
 **bartolo502/bartolo502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
